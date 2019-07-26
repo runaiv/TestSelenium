@@ -24,7 +24,7 @@ public class First_Test {
 	
 	public static void main(String[] args) throws InterruptedException{
 		
-		
+		//Connexion avec chromedriver 
 		System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\selenium\\chromedriver.exe");
 		
 		
