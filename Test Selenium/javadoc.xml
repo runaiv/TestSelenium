@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="package" author="true" classpath="C:\Program Files\selenium\selenium-server-standalone-3.141.59.jar;C:\Program Files\selenium\selenium-java-3.141.59\client-combined-3.141.59.jar;C:\Program Files\selenium\selenium-java-3.141.59\client-combined-3.141.59-sources.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="selenium" source="1.8" sourcepath=".apt_generated;src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
