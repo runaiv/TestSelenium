@@ -6,10 +6,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 
 /**
- * Test automatique pour vérifier lorsqu'on tape "arte france" sur 
- * la barre de recherche de google et ensuite, lors du click sur le bouton "J'ai de la chance" 
- * On est dirigé bien vers la page "https://boutique.arte.tv/"
- *
+ * Test automatique pour vÃ©rifier qu'on est dirigÃ© ver la page "https://boutique.arte.tv/", 
+ * lorsqu'on tape "arte france" sur la barre de recherche de google 
+ * suivi d'un clic sur le bouton "J'ai de la chance" 
  * 
  * @author Arun
  *
@@ -29,7 +28,7 @@ public class First_Test {
 		System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\selenium\\chromedriver.exe");
 		
 		
-		//Créer une nouvelle instance du pilote chrome
+		//CrÃ©er une nouvelle instance du pilote chrome
 		WebDriver driver = new ChromeDriver();
 	
 		driver.manage().window().maximize();
@@ -46,7 +45,7 @@ public class First_Test {
 		//Trouver le bouton "j'ai de la chance" et cliquer
 		driver.findElement(By.name("btnI")).click();
 		
-		//Vérifier l'url courant
+		//VÃ©rifier l'url courant
 		String current_url = driver.getCurrentUrl();
 		String url = "https://boutique.arte.tv/";
 		
