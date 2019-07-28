@@ -55,10 +55,9 @@ Il existe deux manières d’exécuter le code dans Eclipse.
 
 Dans la barre de menus Eclipse, choisissez Exécuter> Exécuter.
 	-Appuyez sur Ctrl + F11 pour exécuter le code entier.
-	-Exécuter sur la barre de menus Eclipse
+	-Exécuter sur la barre de menus Eclipse -> Run 
 
 Si vous avez tout complété correctement, Eclipse générera le message «Test réussi!».
 
-Test réussi
 ----------------------------------------------------------------------------------------------------------------------------------------
 
