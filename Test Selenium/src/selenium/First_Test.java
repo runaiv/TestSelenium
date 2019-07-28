@@ -31,6 +31,7 @@ public class First_Test {
 		//Créer une nouvelle instance du pilote chrome
 		WebDriver driver = new ChromeDriver();
 	
+		//Instructions complémentaires
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
