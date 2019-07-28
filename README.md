@@ -1,6 +1,6 @@
 # TestSelenium Documentation et Mode d'emploi
 
-Script pour effectuer un test automatique 
+Script pour effectuer un test automatique afin de vérifier qu'on est dirigé ver la page "https://boutique.arte.tv/", lorsqu'on tape "arte france" sur la barre de recherche de google suivi d'un clic sur le bouton "J'ai de la chance" 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
