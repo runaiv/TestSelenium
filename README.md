@@ -3,8 +3,10 @@
 Script pour effectuer un test automatique 
 
 
-****Documentation****
+
 !---------------------------------------------------------------------------------------------------------------------------------------
+****Documentation****
+
 ***Importer des packages/instructions*** : 
 Tout d'abord nous avons besoin d'importer les deux pacquages suivants pour être prêt:
 
@@ -49,7 +51,7 @@ La méthode quit () vous aide à fermer la fenêtre du navigateur
 
 
 
-!---------------------------------------------------------------------------------------------------------------------------------------
+!--------------------------------------------------------------------------------------------------------------------------------------
 
 ****Mode d'emploi****
 
