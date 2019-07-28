@@ -1,4 +1,4 @@
-# TestSelenium
+# TestSelenium Documentation
 
 Script pour effectuer un test automatique 
 
